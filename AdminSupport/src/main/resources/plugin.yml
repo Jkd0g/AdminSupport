@@ -1,0 +1,18 @@
+name: AdminSupport
+version: ${project.version}
+main: jp.nuchi.adminsupport.AdminSupport
+authors: [nuchi]
+commands:
+  Twitter:
+    description: Open Twitter Link
+  Discord:
+    description: Open Discord Lunk
+  Youtube:
+    description: Open Youtube Link
+  WebSite:
+    description: Open WebSite Link
+  BC:
+    description: BroadCast self
+  Admin:
+    description: admin all
+

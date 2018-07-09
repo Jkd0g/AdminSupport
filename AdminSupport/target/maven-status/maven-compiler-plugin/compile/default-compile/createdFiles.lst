@@ -1,0 +1,5 @@
+jp\nuchi\adminsupport\Commands\mainCommand.class
+jp\nuchi\adminsupport\Event\JoinEvent.class
+jp\nuchi\adminsupport\AdminSupport.class
+jp\nuchi\adminsupport\Commands\Link.class
+jp\nuchi\adminsupport\Commands\BroadCast.class

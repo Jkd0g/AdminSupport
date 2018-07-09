@@ -1,0 +1,18 @@
+#リンクの設定
+#カラーコードを使用する際は§を利用してください。
+#＆ではうまく動作しません。
+Twitter: "https://twitter.com/<username>"
+Discord: "https://discord.gg/<code>"
+Youtube: "https://www.youtube.com/channel/<code>"
+WebSite: "https://www.spigotmc.org"
+
+
+#Joinメッセージの設定
+#Joinメッセージの有効(true)・無効(false)
+JoinMessage1: "ようこそ○○サーバーへ！"
+JoinMessageSet1: true
+JoinMessage2: "今日も一日頑張りましょう！"
+JoinMessageSet2: false
+JoinMessage3: ""
+JoinMessage4: ""
+JoinMessage5: ""
